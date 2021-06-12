@@ -8,7 +8,7 @@ Scripts used in publication: "Low genetic variation is associated with low mutat
  More information about vcf file formats can be found here:
   http://www.internationalgenome.org/wiki/Analysis/Variant%20Call%20Format/vcf-variant-call-format-version-40/
 
-The files in this repository are not representitive of ever step of data analysis for this publication, but rather are selected
+The files in this repository are not representitive of every step of data analysis for this publication, but rather are selected
 to highlight some of the projects I put together while working on this publication.
 
 Information about included files:
