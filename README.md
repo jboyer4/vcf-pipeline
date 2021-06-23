@@ -14,7 +14,7 @@ to highlight some of the projects I put together while working on this publicati
 Information about included files:
 
 1) pipeline.py
-Arguments required: 1)vcf file to filter 2)name of parent 3)outFile name
+Arguments required: 1)vcf (Variant Call Format) file to filter 2)name of parent 3)outFile name
 	1) vcf file to filter: This is the file containing the varients. Must be in VCF format. 
 	2) Name of parent: This argument lets you indicate which of your samples is the parent sample that the
 		others decsend from.
